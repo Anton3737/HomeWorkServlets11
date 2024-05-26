@@ -5,27 +5,31 @@
     <title>Time</title>
     <style>
         body {
-    font-family: Comic Sans MS, cursive;
-    background-color: #555aaa;
-    margin: 0;
-    padding: 0;
-}
+            font-family: Comic Sans MS, cursive;
+            background-color: #555aaa;
+            margin: 0;
+            padding: 0;
+        }
 
-h1 {
-    color: #000000;
-    text-align: center;
-    margin-top: 20%;
-}
+        h1 {
+            color: #000000;
+            text-align: center;
+            margin-top: 20%;
+        }
+        h2 {
+            color: #000000;
+            text-align: center;
+        }
 
-span {
-    color: #f4f4f4;
-    font-weight: bold;
-}
-
+        span {
+            color: #f4f4f4;
+            font-weight: bold;
+        }
 
     </style>
 </head>
 <body>
-<h1>Time, <span th:text="${time}"></span></h1>
+<h1>Time, <span th:text="${currentTime}"> </span></h1>
+<h2>Time Zone, <span th:text="${timezone}"> </span></h2>
 </body>
 </html>

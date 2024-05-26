@@ -1,8 +1,4 @@
 
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ùÔÍÌÿÿÿÿÿ8ÁÁÎêç1J$9739c389-16a5-4c19-9a0b-09d7719f1e0c
-’
-java:S1989M"PHandle the following exception that could be thrown by "getWriter": IOException.(î²Â8£ïÒêç1J$e5502b15-7ccb-4722-87b6-6de84047adb9
-“
-java:S1989N"PHandle the following exception that could be thrown by "getWriter": IOException.(ïÕ‡ú8¤ïÒêç1J$4623e6b8-1a68-412b-b685-00aa26fdeb04
-s
-java:S1128"0Remove this unused import 'java.io.PrintWriter'.(ÓŞÏÛ8ÚÁÎêç1J$48268de6-6c30-4cec-ae44-958b36624585
+]
+java:S1220""Move this file to a named package.8®«Ö¨û1J$48c02475-63a3-4fb7-8eff-99a6a65f6dd8
+~	java:S125"<This block of commented-out lines of code should be removed.(·üíÀ8²«Ö¨û1J$77f0dae8-930d-4297-89b9-3e7d8f3d9826
